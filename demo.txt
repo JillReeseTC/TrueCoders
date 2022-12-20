@@ -1,0 +1,8 @@
+Call for pizza
+order crust
+order sauce
+order cheese
+order toppings
+give address
+give payment
+estimate time
